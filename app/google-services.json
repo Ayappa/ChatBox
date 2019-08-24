@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940251889580",
+    "firebase_url": "https://trip-e24f4.firebaseio.com",
+    "project_id": "trip-e24f4",
+    "storage_bucket": "trip-e24f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940251889580:android:5d91ec299fb20273",
+        "android_client_info": {
+          "package_name": "com.example.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940251889580-qb8v05eo9rt810vp5h13i0jg6c4ekt34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbox",
+            "certificate_hash": "c352be554ba8800db699a68609ab3af2e3a3182a"
+          }
+        },
+        {
+          "client_id": "940251889580-31b6ornqn95k6gmlpamlnor9t3vqec4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0nDYEntLTuMOBV7crHEuuH5RLpa0V4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940251889580-31b6ornqn95k6gmlpamlnor9t3vqec4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
